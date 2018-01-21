@@ -8,4 +8,5 @@ Set up for new computers to improve efficiency
 
 ### Change .vimrc file
 `vim ~/.vimrc`
+
 Paste vimrc.txt contents in .vimrc file
