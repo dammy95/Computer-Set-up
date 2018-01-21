@@ -5,8 +5,11 @@ Set up for new computers to improve efficiency
 Download iTerm2 and set as default terminal
 
 ### Colour settings
+
 Foreground: `e78238`
+
 Background: `002833`
+
 Cursor Text: `003541`
 
 ## Vim8
@@ -32,5 +35,6 @@ Paste vimrc.txt contents in .vimrc file
 
 ### Use iTerm2 powerline font in settings
 Also remember to change both the default and the non-ASCII font
+
 Font Type: `11pt Meslo LG L Regular for Powerline`
 
