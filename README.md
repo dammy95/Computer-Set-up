@@ -46,4 +46,5 @@ Font Type: `11pt Meslo LG L Regular for Powerline`
 
 ### To remove user@hostname info
 `vim ~/.oh-my-zsh/themes/agnoster.zsh-theme`
+
 Uncomment the `prompt context` line in the `build_prompt()` (should be line 220) function and set `PROMPT='$(build_prompt) '`
