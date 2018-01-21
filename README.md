@@ -12,11 +12,11 @@ Set up for new computers to improve efficiency
 Paste vimrc.txt contents in .vimrc file
 
 ### Install power-line fonts
-`# clone
+```# clone
 git clone https://github.com/powerline/fonts.git --depth=1
 # install
 cd fonts
 ./install.sh
 # clean-up a bit
 cd ..
-rm -rf fonts`
+rm -rf fonts```
