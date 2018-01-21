@@ -1,6 +1,9 @@
 # Computer-Set-up
 Set up for new computers to improve efficiency
 
+## iTerm2
+Download iTerm2 and set as default terminal
+
 ## Vim8
 
 ### Upgrade to Vim8
@@ -20,3 +23,5 @@ cd fonts
 # clean-up a bit
 cd ..
 rm -rf fonts```
+
+### aolcwnlkhb
