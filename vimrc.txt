@@ -22,6 +22,7 @@ Plug 'iberianpig/tig-explorer.vim'
 Plug 'fatih/vim-go'
 Plug 'pangloss/vim-javascript'
 Plug 'wesQ3/vim-windowswap'
+Plug 'scrooloose/nerdcommenter'
 call plug#end()
 
 let g:ale_completion_enabled = 1
@@ -60,3 +61,6 @@ augroup END
 
 " allow mouse clickage
 set mouse=a
+
+" Switch between different files in buffer using tab key
+nmap <tab> :b#<cr>
